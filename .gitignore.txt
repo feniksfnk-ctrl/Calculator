@@ -1,6 +1,0 @@
-/build
-*.exe
-*.obj
-*.log
-.vs/
-.vscode/
