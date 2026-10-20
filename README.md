@@ -18,6 +18,6 @@
 -С++
 -Visual Studio
 -Git
-
+ 
 ## Авторы
 Fenya, Zelenograd, 2026.
